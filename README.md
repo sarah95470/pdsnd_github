@@ -2,6 +2,11 @@
 Data analysis is a process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information,
 informing conclusion and supporting decision-making.
 
+
+### Date of Project
+Project was completed on the 6 May 2020
+
+
 ### Project Title
 USbikeshare data
 
